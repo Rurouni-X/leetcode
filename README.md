@@ -32,9 +32,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Rurouni-X/leetcode/tree/master/0344-reverse-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Rurouni-X/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Rurouni-X/leetcode/tree/master/0344-reverse-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Rurouni-X/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 <!---LeetCode Topics End-->
