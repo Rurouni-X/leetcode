@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Rurouni-X/leetcode/tree/master/0704-binary-search) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Rurouni-X/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rurouni-X/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3701-compute-alternating-sum](https://github.com/Rurouni-X/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/Rurouni-X/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -56,5 +57,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3701-compute-alternating-sum](https://github.com/Rurouni-X/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/Rurouni-X/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
