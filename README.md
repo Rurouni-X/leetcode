@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Rurouni-X/leetcode/tree/master/0832-flipping-an-image) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Rurouni-X/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rurouni-X/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2942-find-words-containing-character](https://github.com/Rurouni-X/leetcode/tree/master/2942-find-words-containing-character) |
 | [3701-compute-alternating-sum](https://github.com/Rurouni-X/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/Rurouni-X/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rurouni-X/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2000-reverse-prefix-of-word](https://github.com/Rurouni-X/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Rurouni-X/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2942-find-words-containing-character](https://github.com/Rurouni-X/leetcode/tree/master/2942-find-words-containing-character) |
 | [3794-reverse-string-prefix](https://github.com/Rurouni-X/leetcode/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Rurouni-X/leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Stack
