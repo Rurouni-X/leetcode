@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Rurouni-X/leetcode/tree/master/0009-palindrome-number) |
 | [2469-convert-the-temperature](https://github.com/Rurouni-X/leetcode/tree/master/2469-convert-the-temperature) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Rurouni-X/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Binary Search
 |  |
 | ------- |
