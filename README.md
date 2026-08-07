@@ -13,18 +13,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Rurouni-X/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rurouni-X/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2942-find-words-containing-character](https://github.com/Rurouni-X/leetcode/tree/master/2942-find-words-containing-character) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Rurouni-X/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3701-compute-alternating-sum](https://github.com/Rurouni-X/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/Rurouni-X/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rurouni-X/leetcode/tree/master/0001-two-sum) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Rurouni-X/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3945-digit-frequency-score](https://github.com/Rurouni-X/leetcode/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Rurouni-X/leetcode/tree/master/0009-palindrome-number) |
 | [2469-convert-the-temperature](https://github.com/Rurouni-X/leetcode/tree/master/2469-convert-the-temperature) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Rurouni-X/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Rurouni-X/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3945-digit-frequency-score](https://github.com/Rurouni-X/leetcode/tree/master/3945-digit-frequency-score) |
 ## Binary Search
