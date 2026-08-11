@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0627-swap-sex-of-employees](https://github.com/Rurouni-X/leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/Rurouni-X/leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1683-invalid-tweets](https://github.com/Rurouni-X/leetcode/tree/master/1683-invalid-tweets) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Rurouni-X/leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
