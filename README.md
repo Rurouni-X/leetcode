@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0627-swap-sex-of-employees](https://github.com/Rurouni-X/leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/Rurouni-X/leetcode/tree/master/1068-product-sales-analysis-i) |
+| [1587-bank-account-summary-ii](https://github.com/Rurouni-X/leetcode/tree/master/1587-bank-account-summary-ii) |
 | [1683-invalid-tweets](https://github.com/Rurouni-X/leetcode/tree/master/1683-invalid-tweets) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Rurouni-X/leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Rurouni-X/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
