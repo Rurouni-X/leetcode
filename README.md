@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Rurouni-X/leetcode/tree/master/0175-combine-two-tables) |
 | [0627-swap-sex-of-employees](https://github.com/Rurouni-X/leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/Rurouni-X/leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1587-bank-account-summary-ii](https://github.com/Rurouni-X/leetcode/tree/master/1587-bank-account-summary-ii) |
